@@ -11,7 +11,7 @@ export default function GuestbookPage() {
     <section className="sm:px-14 sm:pt-6">
       <h1 className="mb-2 text-2xl font-medium tracking-tighter">Guestbook</h1>
       <p className="prose prose-neutral mb-2 text-sm dark:prose-invert">
-        关于留言簿的一些文字。
+       Some text about the guestbook.
       </p>
       <GuestbookForm />
       <GuestbookEntries />
