@@ -2,8 +2,8 @@ import Form from './form'
 import GuestbookEntries from './guestbook-entry'
 
 export const metadata = {
-  title: 'Guestbook',
-  description: 'Sign my guestbook and leave your mark.'
+  title: '留言薄',
+  description: '请在我的留言薄中签名并留下您的印记！'
 }
 
 export default function GuestbookPage() {
