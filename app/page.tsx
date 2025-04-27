@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import avatar from 'public/avatar-asuka.jpeg'
+import avatar from 'app/avatar.webp'
 import desktop from 'public/main/desktop.webp'
 import cloth from 'public/main/cloth.webp'
 import shoe from 'public/main/shoe.webp'
