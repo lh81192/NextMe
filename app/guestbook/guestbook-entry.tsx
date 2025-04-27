@@ -6,6 +6,18 @@ import { SkeletonBase } from '../components/skeleton-base'
 export default function GuestbookEntries() {
   const entries = [
     {
+      id: 96,
+      body: '～欢迎大家在这里留言，互相交流！',
+      created_by: '木子',
+      created_at: '2025-04-28 00:00:00',
+      updated_at: '2025-04-28 00:01:31',
+      is_reply: 2,
+      reply_to: 0,
+      slug: 'guestbook',
+      is_banner: 2,
+      banner_url: '',
+    },
+    {
       id: 95,
       body: '👌前端部分将会加入到博客框架中。',
       created_by: '仓鼠',
