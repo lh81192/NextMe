@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import avatar from 'app/avatar.webp'
+import avatar from 'public/avatar-asuka.jpeg'
 import desktop from 'public/main/desktop.webp'
 import cloth from 'public/main/cloth.webp'
 import shoe from 'public/main/shoe.webp'
@@ -23,17 +23,17 @@ export default async function Page() {
           priority
         />
         <h1 className="mb-1 text-xl font-medium tracking-tighter">
-          Hamster1963
+          木子
         </h1>
         <p className="prose prose-neutral text-sm dark:prose-invert">
           Developer, guitarist, and creator.
         </p>
         <p className={'mb-6 pt-10 text-lg font-medium tracking-tight'}>
-          👋 Hi, I'm Hamster1963.
+          👋 hello，我是木子。
           <br />
-          Love to write code and write articles.
+          我喜欢阅读、互联网、ACGN、影视、音乐、旅行。
           <br />
-          I will share some tech related things and my ideas here.
+          我会在这里记录我的生活、学习和工作。
           <br />
         </p>
         <NowPlayingInit />
