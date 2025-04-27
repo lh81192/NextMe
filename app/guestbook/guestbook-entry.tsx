@@ -8,7 +8,7 @@ export default function GuestbookEntries() {
     {
       id: 96,
       body: '～欢迎大家在这里留言，互相交流！',
-      created_by: '木子',
+      created_by: '仓鼠',
       created_at: '2025-04-28 00:00:00',
       updated_at: '2025-04-28 00:01:31',
       is_reply: 2,
